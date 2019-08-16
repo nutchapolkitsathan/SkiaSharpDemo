@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
+    <PackageReference Include="SkiaSharp" Version="1.68.0" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="1.68.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MonkeyFace.png" />
+    <None Remove="Media\moody-blur-wallpaper.jpg" />
+    <None Remove="Media\cat.jpg" />
+    <None Remove="Media\dog.jpg" />
+    <None Remove="Media\card.png" />
+    <None Remove="Media\card.png" />
+    <None Remove="Media\card.png" />
+    <None Remove="Media\card2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Media\cat.jpg">
+      <LogicalName>SkiaSharpFormsDemos.Media.MonkeyFace.png</LogicalName>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Media\cat.jpg" />
+    <EmbeddedResource Include="Media\dog.jpg" />
+    <EmbeddedResource Include="Media\card.png" />
+    <EmbeddedResource Include="Media\card2.png" />
+  </ItemGroup>
+</Project>

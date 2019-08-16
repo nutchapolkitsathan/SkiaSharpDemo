@@ -1,0 +1,12 @@
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/bin/Debug/netstandard2.0/SkiaSharpDemo.deps.json
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/bin/Debug/netstandard2.0/SkiaSharpDemo.dll
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/bin/Debug/netstandard2.0/SkiaSharpDemo.pdb
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SkiaSharpDemo.csprojAssemblyReference.cache
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SkiaSharpDemo.csproj.CoreCompileInputs.cache
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SkiaSharpDemo.AssemblyInfoInputs.cache
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SkiaSharpDemo.AssemblyInfo.cs
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SkiaSharpDemo.dll
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SkiaSharpDemo.pdb
+/Users/nutchapol/Projects/SkiaSharpDemo/SkiaSharpDemo/obj/Debug/netstandard2.0/SaveImagePage.xaml.g.cs

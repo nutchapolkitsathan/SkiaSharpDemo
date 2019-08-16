@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{18BE3A14-FD9A-4B6D-B4CB-54A46E57CEC8}|Default">
+  <MonoDevelop.Ide.ItemProperties.SkiaSharpDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1616D887-A0BA-416A-9ACA-FBFAE8962320" />
+  <MonoDevelop.Ide.ItemProperties.SkiaSharpDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SkiaSharpDemo/SaveImagePage.xaml.cs">
+    <Files>
+      <File FileName="SkiaSharpDemo/obj/Debug/netstandard2.0/SaveImagePage.xaml.g.cs" Line="37" Column="1" />
+      <File FileName="SkiaSharpDemo/SaveImagePage.xaml.cs" Line="46" Column="56" />
+      <File FileName="SkiaSharpDemo/SaveImagePage.xaml" />
+      <File FileName="SkiaSharpDemo/App.xaml.cs" />
+      <File FileName="SkiaSharpDemo/App.xaml" />
+      <File FileName="SkiaSharpDemo/Media/cat.jpg" />
+      <File FileName="SkiaSharpDemo/IPhotoLibrary.cs" />
+      <File FileName="SkiaSharpDemo/BitmapExtensions.cs" />
+      <File FileName="SkiaSharpDemo.iOS/PhotoLibrary.cs" />
+      <File FileName="SkiaSharpDemo.iOS/Info.plist" />
+      <File FileName="SkiaSharpDemo/Media/card.png" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SkiaSharpDemo" expanded="True">
+            <Node name="SkiaSharpDemo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Media" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="SaveImagePage.xaml" expanded="True">
+                <Node name="SaveImagePage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="SkiaSharpDemo.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="SkiaSharpDemo.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
